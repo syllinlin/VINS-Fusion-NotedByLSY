@@ -181,3 +181,4 @@ The source code is released under [GPLv3](http://www.gnu.org/licenses/) license.
 We are still working on improving the code reliability. For any technical issues, please contact Tong Qin <qintonguavATgmail.com>.
 
 For commercial inquiries, please contact Shaojie Shen <eeshaojieATust.hk>.
+# VINS-Fusion-NotedByLSY
