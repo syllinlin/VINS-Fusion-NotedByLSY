@@ -1,8 +1,4 @@
-VINS-Mono注释详见https://github.com/xieqi1/VINS-Mono-noted
-
-本仓库只对双目部分及其他和VINS-Mono不同的部分进行注释
-
-如果你喜欢可以star一下～～～
+没有对回环相关部分进行注释
 
 # VINS-Fusion
 
