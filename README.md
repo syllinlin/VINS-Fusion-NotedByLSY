@@ -1,4 +1,5 @@
 没有对回环相关部分进行注释
+相关原理解释，我将会逐一发布在知乎上：https://www.zhihu.com/column/c_1543603130763534336
 
 # VINS-Fusion
 
